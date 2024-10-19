@@ -4,5 +4,6 @@
       poetry
       kubectl
       kubernetes-helm
+      k3d
     ];
 }
